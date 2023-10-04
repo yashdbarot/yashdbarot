@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yashbarot499@gmail.com**
 
-- 📄 Know about my experiences [1+ years experience](1+ years experience)
+- 📄 Know about my experiences [1+ years experience]
 
 - ⚡ Fun fact **I think i will....**
 
