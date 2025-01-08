@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yash Barot and I'm a Data Scientist, from India</h2>
+<h2 align="left">Hi 👋! My name is Yash Barot and I started working on as AI/ML Developer and Data Scientist from India</h2>
 
 ###
 <div align="center">
