@@ -1,4 +1,18 @@
-<h2 align="left">Hi 👋! My name is Yash Barot and I started working on as AI/ML Developer and Data Scientist from India</h2>
+<h2 align="left">Hi 👋! My name is Yash Barot — Data Analyst & Analytics Engineer from Surat, India</h2>
+
+<p align="left">
+Passionate about building robust data reconciliation systems, retail product matching engines, and anomaly detection pipelines using Python, SQL, and Power BI.
+</p>
+
+### 🚀 Featured Engineering & Analytics Projects
+
+| Project | Focus Areas | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **Retail Data Quality & Product Matching System** | Multi-attribute candidate generation, pack-size mismatch constraints, release-blocking quality gates | Python, scikit-learn, RapidFuzz, pandas | [retail-product-matching](https://github.com/yashdbarot/retail-product-matching) |
+| **Sales Anomaly Investigation System** | Strictly causal rolling baselines, multi-SKU facility closure RCA, commercial loss vs ingestion gap separation | Python, pandas, NumPy, SciPy | [sales-anomaly-investigation](https://github.com/yashdbarot/sales-anomaly-investigation) |
+| **Product Category Classification & Novelty Discovery** | Leak-free product-grouped splits, physical quantity preservation, OOD recall vs auto-pass containment | Python, scikit-learn, TF-IDF, CalibratedClassifier | [product-category-classification](https://github.com/yashdbarot/product-category-classification) |
+| **Retail Data Delivery & Partner SLA Monitor** | Contract schedule alignment, midnight rollover lateness, mandatory telemetry gating, monthly FRI scoring | Python, pandas, unittest | [retail-data-delivery-sla-monitor](https://github.com/yashdbarot/retail-data-delivery-sla-monitor) |
+| **Textile Inventory & Sales Reconciliation System** | Multi-stage material flows, independent shrinkage math, delivery challan vs invoice value reconciliation | Python, openpyxl, pandas | [textile-inventory-sales-reconciliation](https://github.com/yashdbarot/textile-inventory-sales-reconciliation) |
 
 ###
 <div align="center">
@@ -15,7 +29,7 @@
   <a href="https://x.com/yashdbarot" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="www.linkedin.com/in/yashdbarot" target="_blank">
+  <a href="https://www.linkedin.com/in/yashdbarot" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/13812322/yash-barot" target="_blank">
